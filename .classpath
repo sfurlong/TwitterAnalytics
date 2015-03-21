@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="*.java" kind="src" path="src-examples"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/twitter4j-4.0.2/lib/twitter4j-media-support-4.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/twitter4j-4.0.2/lib/twitter4j-stream-4.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/twitter4j-4.0.2/lib/twitter4j-async-4.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/twitter4j-4.0.2/lib/twitter4j-core-4.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/java-client-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/logback-classic-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/jackson-core-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/jackson-databind-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/jackson-annotations-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/mimepull-1.9.4.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/httpclient-4.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/httpcore-4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/jersey-apache-client4-1.17.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/jersey-client-1.17.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/jersey-multipart-1.17.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/mimepull-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/sfurlong/ML-Dev/lib/java-client-api-3.0.1/lib/slf4j-api-1.7.4.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>

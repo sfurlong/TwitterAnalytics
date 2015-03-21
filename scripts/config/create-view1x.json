@@ -1,0 +1,13 @@
+{
+     "view-name": "employees",
+     "element-scope":{"namespace-uri":"", "localname":"Employee"},
+     "column": [
+       {
+         "column-name": "employeeid",
+         "element-reference": {
+            "namespace-uri": "",
+            "localname": "EmployeeID",
+            "scalar-type": "int"
+         } }
+     ]
+}

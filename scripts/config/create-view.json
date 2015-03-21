@@ -1,0 +1,55 @@
+{
+"view-schema-name": "tweets", 
+"element-scope":{"namespace-uri":"", "localname":"tweets"}, 
+"column": [
+               {
+                 "column-name": "id_str",
+                 "element-reference": {
+                    "namespace-uri": "",
+                    "localname": "id_str",
+                    "scalar-type": "string"
+} },
+               {
+                 "column-name": "coordinates",
+                 "element-reference": {
+                    "namespace-uri": "",
+                    "localname": "coordinates",
+                    "scalar-type": "string"
+} },
+               {
+                 "column-name": "created_at",
+                 "element-reference": {
+                    "namespace-uri": "",
+                    "localname": "created_at",
+                    "scalar-type": "datetime"
+} },
+               {
+                 "column-name": "geo",
+                 "element-reference": {
+                    "namespace-uri": "",
+                    "localname": "geo",
+                    "scalar-type": "string"
+} },
+               {
+                 "column-name": "text",
+                 "element-reference": {
+                    "namespace-uri": "",
+                    "localname": "text",
+                    "scalar-type": "string"
+} },
+               {
+                 "column-name": "screen_name",
+                 "element-reference": {
+                    "namespace-uri": "",
+                    "localname": "screen_name",
+                    "scalar-type": "string"
+} },
+               {
+                 "column-name": "location",
+                 "element-reference": {
+                    "namespace-uri": "",
+                    "localname": "location",
+                    "scalar-type": "string"
+} }
+]
+}

@@ -1,0 +1,65 @@
+declareUpdate();
+xdmp.documentInsert(
+   "/employee1.json",
+    { "Employee": {
+      "EmployeeID": 1,
+      "FirstName": "John",
+      "LastName": "Widget",
+      "Position": "Manager of Human Resources" }}),
+xdmp.documentInsert(
+   "/employee2.json",
+    { "Employee": {
+      "EmployeeID": 2,
+      "FirstName": "Jane",
+      "LastName": "Lead",
+      "Position": "Manager of Widget Research" }}),
+xdmp.documentInsert(
+   "/employee3.json",
+    { "Employee": {
+      "EmployeeID": 3,
+      "FirstName": "Steve",
+      "LastName": "Manager",
+      "Position": "Senior Technical Lead" }}),
+xdmp.documentInsert(
+   "/employee4.json",
+    { "Employee": {
+      "EmployeeID": 4,
+      "FirstName": "Debbie",
+      "LastName": "Goodall",
+      "Position": "Senior Widget Researcher" }}),
+xdmp.documentInsert(
+   "/expense1.json",
+    { "Expenses": {
+      "EmployeeID": 2,
+      "Date": "2012-06-27",
+      "Amount": 131.02}}),
+xdmp.documentInsert(
+   "/expense2.json",
+    { "Expenses": {
+      "EmployeeID": 1,
+      "Date": "2012-08-03",
+      "Amount": 59.95}}),
+xdmp.documentInsert(
+   "/expense3.json",
+    { "Expenses": {
+      "EmployeeID": 3,
+      "Date": "2012-05-07",
+      "Amount": 162.95}}),
+xdmp.documentInsert(
+   "/expense4.json",
+    { "Expenses": {
+      "EmployeeID": 3,
+      "Date": "2012-05-30",
+      "Amount": 120.00}}), 
+xdmp.documentInsert(
+   "/expense5.json",
+    { "Expenses": {
+      "EmployeeID": 4,
+      "Date": "2012-03-23",
+      "Amount": 155.55}}), 
+xdmp.documentInsert(
+   "/expense6.json",
+    { "Expenses": {
+      "EmployeeID": 4,
+      "Date": "2012-06-05",
+      "Amount": 104.29}})

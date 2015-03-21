@@ -1,0 +1,1 @@
+curl -v -X POST --anyauth --user admin:marklogic1 --header "Content-Type:application/json" -d '{"view-schema-name": "main"}' http://192.168.1.16:8002/manage/v2/databases/SQLdata/view-schemas?format=json
