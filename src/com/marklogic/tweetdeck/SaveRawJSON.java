@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package twitter4j.examples;
+package com.marklogic.tweetdeck;
 
 import twitter4j.*;
 

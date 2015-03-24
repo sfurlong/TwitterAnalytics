@@ -1,4 +1,4 @@
-package twitter4j.marklogic;
+package com.marklogic.tweetdeck;
 
 
 import java.io.FileInputStream;
