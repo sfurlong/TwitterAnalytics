@@ -66,7 +66,7 @@ public class SearchTweets {
 					if (rawJSON == null) {
 						System.out.println("WTF null JSON: " + rawJSON);
 					} else {
-						twitter4j.examples.SaveRawJSON.storeJSON(rawJSON,
+						com.marklogic.tweetdeck.SaveRawJSON.storeJSON(rawJSON,
 								fileName);
 					}
 

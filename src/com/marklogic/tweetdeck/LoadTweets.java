@@ -8,12 +8,6 @@ import com.marklogic.client.DatabaseClient;
 import com.marklogic.client.DatabaseClientFactory;
 import com.marklogic.client.DatabaseClientFactory.Authentication;
 import com.marklogic.client.io.InputStreamHandle;
-import com.marklogic.client.io.SearchHandle;
-import com.marklogic.client.query.MatchDocumentSummary;
-import com.marklogic.client.query.MatchLocation;
-import com.marklogic.client.query.MatchSnippet;
-import com.marklogic.client.query.QueryManager;
-import com.marklogic.client.query.StringQueryDefinition;
 import com.marklogic.client.document.*;
 
 public class LoadTweets {
